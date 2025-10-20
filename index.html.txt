@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>سایت من</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>سلام! این سایت من است</h1>
+  </header>
+  <main>
+    <p>این سایت با GitHub Pages ساخته شده است.</p>
+  </main>
+  <footer>
+    <p>© <span id="year"></span> سایت من</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
